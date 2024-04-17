@@ -35,6 +35,11 @@ del <filename>
 git log
 ```
 
+Посмотреть текущие версии, вывод информации в одну строку
+```sh
+git log --oneline
+```
+
 Перейти в другую версию
 ```sh
 git checkot <version name>
