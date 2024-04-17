@@ -20,6 +20,11 @@ git init
 git add
 ```
 
+Запись внесенных изменений
+```sh
+git commit -m "Message"
+```
+
 Удаление файла
 ```sh
 del <filename>
