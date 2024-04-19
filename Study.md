@@ -49,3 +49,4 @@ git checkot <version name>
 ```sh
 git diff
 ```
+Тут другой текст, чтобы был конфликт
