@@ -97,3 +97,8 @@ git remote add origin <ссылка_репозитория>
 ```sh
 git remote show
 ```
+
+Посмотреть репозитории подробно
+```sh
+git remote show -v
+```
