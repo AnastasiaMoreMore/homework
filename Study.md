@@ -92,3 +92,8 @@ git clone <ссылка_репозитория>
 ```sh
 git remote add origin <ссылка_репозитория>
 ```
+
+Посмотреть репозитории
+```sh
+git remote show
+```
